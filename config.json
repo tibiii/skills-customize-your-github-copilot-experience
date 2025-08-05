@@ -58,6 +58,30 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "web-development",
+      "title": "Web Development Fundamentals",
+      "description": "Build a personal portfolio website using HTML, CSS, and JavaScript with responsive design and interactive features.",
+      "path": "assignments/web-development",
+      "dueDate": "2025-08-12",
+      "attachments": [
+        {
+          "name": "HTML Starter",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "CSS Starter",
+          "file": "styles.css",
+          "type": "css"
+        },
+        {
+          "name": "JavaScript Starter",
+          "file": "script.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
